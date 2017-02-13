@@ -1,5 +1,5 @@
 package Inheritance;
-import AcceModifiers.Cars;
+import AccessModifiers.Cars;
 
 //class Cars{
 //    int speed;

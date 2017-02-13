@@ -1,6 +1,6 @@
 package Inheritance;
 
-import AcceModifiers.Cars;
+import AccessModifiers.Cars;
 
 public class Honda extends Cars {
     public void increaseSpeed(){

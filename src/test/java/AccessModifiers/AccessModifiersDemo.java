@@ -1,4 +1,4 @@
-package AcceModifiers;
+package AccessModifiers;
 
 public class AccessModifiersDemo {
     public static void main(String[] args) {

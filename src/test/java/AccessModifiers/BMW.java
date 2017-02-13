@@ -1,4 +1,4 @@
-package AcceModifiers;
+package AccessModifiers;
 
 public class BMW {
 
