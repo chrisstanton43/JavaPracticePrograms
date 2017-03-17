@@ -10,7 +10,7 @@ public class IfStatement {
         int score;
         score=60;
 
-        if(score<40){
+        if(score>40){
             System.out.println("The student passed in the test");
         }
         else{
