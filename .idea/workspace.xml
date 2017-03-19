@@ -2,53 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5372c9c6-f67c-43f7-97a1-9c3d9b712487" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Encapsulation/Encapsulation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Strings/CharAtMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Strings/ConcateTwoStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Strings/LengthOfString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Strings/SearchString.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/Display.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Abstraction/AbstractCars.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Abstraction/AbstractDemoBMW.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Abstraction/Bank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/BMW.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/Honda.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/InheritanceDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/One.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/Super1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/Teacher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/Two.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/UseStudent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Inheritance/UseTeacher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Interfaces/BMWCarInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Interfaces/CarInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Interfaces/InterfaceDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Interfaces/InterfaceDemo1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/MethodOverloading/CarOverloading2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/MethodOverloading/CarsOverloading.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/MethodOverloading/CarsOverloading3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/MethodOverriding/CarOverridingChildBMW.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/MethodOverriding/CarsOverridingParents.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/PACKAGE_NAME/Display.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/MainClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/MainClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/OOPS/PracticeExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/OOPS/Encapsulation/Encapsulation.class" afterPath="$PROJECT_DIR$/target/test-classes/OOPS/Encapsulation/Encapsulation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/OOPS/Encapsulation/Student.class" afterPath="$PROJECT_DIR$/target/test-classes/OOPS/Encapsulation/Student.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Arrays/RandomNumberGeneration.java" afterPath="$PROJECT_DIR$/src/test/java/Arrays/RandomNumberGeneration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Abstraction/AbstractCars.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Abstraction/AbstractCars.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Abstraction/AbstractDemoBMW.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Abstraction/AbstractDemoBMW.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Abstraction/Bank.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Abstraction/Bank.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/Honda.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Honda.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/InheritanceDemo.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/InheritanceDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/Student.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/Super1.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Super1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/Teacher.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Teacher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/UseStudent.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/UseStudent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Inheritance/UseTeacher.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/UseTeacher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Interfaces/InterfaceDemo1.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Interfaces/InterfaceDemo1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/MethodOverloading/CarOverloading2.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/MethodOverloading/CarOverloading2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/MethodOverloading/CarsOverloading.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/MethodOverloading/CarsOverloading.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/MethodOverloading/CarsOverloading3.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/MethodOverloading/CarsOverloading3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/MethodOverriding/CarOverridingChildBMW.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/MethodOverriding/CarOverridingChildBMW.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/MethodOverriding/CarsOverridingParents.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/MethodOverriding/CarsOverridingParents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/OOPS/Encapsulation/Encapsulation.java" afterPath="$PROJECT_DIR$/src/test/java/OOPS/Encapsulation/Encapsulation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,11 +26,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Encapsulation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Encapsulation/Encapsulation.java">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PracticeExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/PracticeExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-491">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -95,12 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Interfaces/InterfaceDemo2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Interfaces/InterfaceDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Interfaces/InterfaceDemo1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Basics/ArraysDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Basics/ClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Basics/ConditionalStatement.java" />
         <option value="$PROJECT_DIR$/src/test/java/Basics/ConstructorDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/Basics/Helloworld.java" />
         <option value="$PROJECT_DIR$/src/test/java/Basics/LoopsDemo.java" />
@@ -146,6 +128,12 @@
         <option value="$PROJECT_DIR$/src/test/java/Strings/SearchString.java" />
         <option value="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/UseTeacher.java" />
         <option value="$PROJECT_DIR$/src/test/java/OOPS/Encapsulation/Encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Parent.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Child.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPS/Inheritance/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/Demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OOPS/PracticeExample.java" />
       </list>
     </option>
   </component>
@@ -237,6 +225,10 @@
               <option name="myItemId" value="OOPS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PracticeExample.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -263,14 +255,6 @@
               <option name="myItemId" value="OOPS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Encapsulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Encapsulation.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -294,87 +278,7 @@
       <recent name="C:\Users\Ravish\IdeaProjects\JavaPracticePrograms\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Encapsulation">
-    <configuration default="false" name="LengthOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.LengthOfString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaPracticePrograms" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CharAtMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.CharAtMethod" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaPracticePrograms" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ConcateTwoStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.ConcateTwoStrings" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaPracticePrograms" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="SearchString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Strings.SearchString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaPracticePrograms" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PracticeExample">
     <configuration default="false" name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -383,6 +287,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="OOPS.Encapsulation.Encapsulation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPracticePrograms" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="OOPS.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="OOPS.Inheritance.MainClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPracticePrograms" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Super1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="OOPS.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="OOPS.Inheritance.Super1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPracticePrograms" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="OOPS.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="OOPS.Polymorphism.MainClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPracticePrograms" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PracticeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="OOPS.PracticeExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -686,19 +670,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LengthOfString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CharAtMethod" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ConcateTwoStrings" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SearchString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Encapsulation" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Encapsulation" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainClass" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Super1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainClass (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PracticeExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Encapsulation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SearchString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConcateTwoStrings" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CharAtMethod" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LengthOfString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PracticeExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainClass (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Super1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainClass" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Encapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -722,7 +706,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-21" y="5" width="811" height="721" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -746,7 +730,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26498002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26498002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -772,42 +756,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Basics/SwitchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Basics/StringMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Basics/StringDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Basics/LoopsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Basics/Helloworld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Hotel.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Basics/ConstructorDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/report/Hotel.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Basics/Cars.java">
@@ -821,13 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AccessModifiers/Cars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -1070,30 +1011,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/InheritanceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Super1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1120,8 +1037,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Encapsulation/Encapsulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="22">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AccessModifiers/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/InheritanceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Inheritance/Super1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/Polymorphism/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OOPS/PracticeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-491">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding />
         </state>
       </provider>
